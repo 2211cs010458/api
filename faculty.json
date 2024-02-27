@@ -1,0 +1,158 @@
+[
+	{
+		"Name": "Dr. Meeravali Shaikh",
+		"Qualifications": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+		"post": "HOD",
+		"Experience": "13 Years"
+	},
+	{
+		"Name": "Dr.Arun Singh Chouhan",
+		"Qualifications": "B.E (CSE), M. Tech (CSE), Ph. D (CSE)",
+		"post": "Associate Professor",
+		"Experience": "15 Years"
+	},
+	{
+		"Name": "Dr.M.Narayanan",
+		"Qualifications": "B.E (CSE), M.E (CSE),Ph. D (CSE)",
+		"post": "Professor",
+		"Experience": "17 Years"
+	},
+	{
+		"Name": "Dr.P.Rambabu",
+		"Qualifications": "B.Tech(Civil), M. Tech(Remote Sensing),Ph. D(Remote Sensing)",
+
+		"post": "Professor",
+		"Experience": "20 Years (Industry), 13 Years (Teaching)"
+	},
+	{
+		"Name": "Dr.M.Ravikanth",
+		""Qualifications": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+		"post": "Associate Professor",
+		"Experience": "17 Years"
+	},
+	{
+		"Name": "Dr. T. Phanindra"
+		"Qualifications": "B. Tech(EEE), M. Tech (EEE), Ph.D (EEE)",
+		"post": "Associate Professor",
+		"Experience": "12 Years"
+	},
+	{
+		"Name": "Dr.B.Jogeswara Rao",
+		"Qualifications": "MSc (Comp), M. Tech (CSE), Ph. D (CSE)",
+		"post": "Associate Professor",
+		"Experience": "13 Years"
+	},
+	{
+		"Name": "Dr.M.Santhosh Kumar Goud",
+		"Qualifications": "B.Tech (EEE), MS(Photonics), Ph. D (EEE)"
+		"post": "Assistant Professor",
+		"Experience": "13 Years"
+	},
+	{
+		"Name": "Dr. P. Aurchana",
+		"Qualifications": "MCA, M. Tech (CSE), Ph. D (CSE)",
+		"post": "Assistant Professor",
+		"Experience": "7 Years (Teaching), 4 Years (Full Ph.D)"
+	},
+	{
+		"Name": "Mr. Naveen Kumar Navuri",
+		"Qualifications": "B. Tech(IT), M. Tech (CSE), Ph.D Pursuing",
+		"post": "Assistant Professor",
+		"Experience": "13 Years"
+	},
+	{
+		"Name": "Mr. G. Raju",
+		"Qualifications": "MCA, M. Tech (CSE), Ph. D Pursuing",
+		"post": "Assistant Professor",
+		"Experience": "13 Years"
+	},
+	{
+		"Name": "Mr. M.Krishna Kishore",
+		"Qualifications": "B. Tech (IT), M. Tech (CSE), Ph. D (Pursuing)",
+		"post" : "Assistant Professor",
+		"Experience": "12 Years"
+	},
+	{
+		"Name": "Mrs.D.Suneetha",
+		"Qualifications": "B. Tech (CSE), M. Tech (CSE), Ph. D Pursuing",
+		"post": "Assistant Professor",
+		"Experience": "10 Years"
+	},
+	{
+		"Name": "Mrs. T.Indira Priyadarshini",
+		"Qualifications": "B. Tech (CSE), M. Tech (CSE),Ph. D (Pursuing)",
+		"post": "Assistant Professor",
+		"Experience": "9.5 Years"
+	},
+	{
+		"Name": "Mrs. P.Sabitha",
+		"Qualifications": "B. Tech (CSE), M. Tech (CSE),Ph. D (Pursuing)",
+		"post": "Assistant Professor",
+		"Experience": "6.5 Years"
+	},
+	{
+		"Name": "Mrs. B. Tejaswi",
+		"Qualifications": "B. Tech (CSE), M. Tech (CNIS),Ph. D (Pursuing)",
+		"post": "Assistant Professor",
+		"Experience": "10 Years"
+	},
+	{
+		"Name": "Mr. T. Srajan Kumar",
+		"Qualifications": "B. Tech (CSE), M. Tech (CSE),Ph. D (Pursuing)",
+		"post": "Assistant Professor",
+		"Experience": "9 Years"
+	},
+	{
+		"Name": "Mr. N.V.Krishna Rao",
+		"Qualifications": "B. Tech (CSE), M. Tech (CSE),Ph. D (Pursuing)",
+		"post": "Assistant Professor",
+		"Experience": "21 Years"
+	},
+	{
+		"Name": "Mrs. P.Shyamala",
+		"Qualifications": "M. Tech  (CSE),  MCA",
+		"post": "Assistant Professor",
+		"Experience": "17 Years"
+	},
+	{
+		"Name": "Mr. M.Gouthamm",
+		"Qualifications": "B. Tech (CSE), M. Tech (CSE)",
+		"post": "Assistant Professor",
+		"Experience": "9 Years"
+	},
+	{
+		"Name": "Mrs. M. Mounika"
+		"Qualifications": "B. Tech (CSIT), M. Tech (CSE)",
+		"post": "Assistant Professor",
+		"Experience": "10 Years"
+	},
+	{
+		"Name": "G.Trinadha Rao",
+		"Qualifications": "MCA, M. Tech (CSE)",
+		"post": "Assistant Professor",
+		"Experience": "10 Years"
+	},
+	{
+		"Name": "Mrs. S. Monika",
+		"Qualifications": "B. E (CSE), M.E (CSE)",
+		"post": "Assistant Professor",
+		"Experience": "8.8 Years"
+	},
+	{
+		"Name": "Mrs. S.Sowmya",
+		"Qualifications": "B. Tech (CSIT), MS (CSIT)",
+		"post": "Assistant Professor",
+		"Experience": "6 Years"
+	},
+	{
+		"Name": "Mrs. K. Manasa",
+		"Qualifications": "B. Tech (CSE), M. Tech (CSE)",
+		"post": "Assistant Professor",
+		"Experience": "3.5 Years"
+	},
+	{
+		"Name": "Mr. Kishore Kumar",
+		"Qualifications": "B. Tech(EEE), M. Tech (EEE)",
+		"post": "Assistant Professor"
+	}
+]
